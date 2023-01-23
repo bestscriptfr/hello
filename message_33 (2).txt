@@ -22,7 +22,7 @@ local AimingChecks = Aiming.Checks
 local AimingSelected = Aiming.Selected
 local AimLockSettings = Aiming.AimLock
 
-Aiming.Settings.FOVSettings.Scale = 15 -- fov
+Aiming.Settings.FOVSettings.Scale = 100 -- fov
 Aiming.ShowCredits = false
 Aiming.HitChance = 100 -- Hitchance 
 Aiming.Settings.FOVSettings.Enabled = false
